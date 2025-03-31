@@ -1,3 +1,7 @@
 spacy
 jupyter
 pandas
+re
+stanza
+tqdm
+stanza.utils.conll
